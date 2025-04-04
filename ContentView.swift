@@ -5,5 +5,6 @@ struct ContentView: View {
         Text("michael")
         
         Text("Dmytro")
+        Text("Shumyk")
     }
 }
